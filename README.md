@@ -38,6 +38,20 @@ DLC:
 │ └─Hieze: (GE20,NE40,BE20)≈35%
 └─LastUpdate: 19/5/2023| Ver:1.19.50
 ```
+## /
+
+| Command     | Description                    |
+| ----------- | ------------------------------ |
+| Changelogs  | View "latest" changelogs!      |
+| cooking     | Make Curry(Each cooking attempt costs 1 S&D Curry Powder, but FREE NOW!!!) |
+| daily       | Collect FREE PYROXENE!         |
+| give        | Don't use cheat!               |
+| Ping        | Pong!                          |
+| pyroxene    | Soi ĐÁ trong tui               |
+| recruitment | Recruit students for you(free) |
+| ~test~      |                                |
+| カレーパウダー | スパイスの流通で有名なS&D社で販売されているカレーパウダー。特有のピリ辛いコクはカレー以外の料理ともよく馴染む。|
+
 # About T.F.G chr (use gg tran)
 TFG  is a fictional character in MCUTDS, the appearance of this character with radioactive abilities is the result of a forced combination of TrueAncidentTFG in his last breath that brought the two entities together...yo spoiler💀
 ![pps](/icon.png)
