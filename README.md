@@ -1,6 +1,6 @@
 # About T.F.G BOT
 Bot name `T.F.G`, Là từ *viết tắc* của ~TFG~
-- _BA Update Version!_
+- _PRD Update Version!_
 - **sus**: `???`
  ## Invite
 > [!WARNING]
