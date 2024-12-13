@@ -3,7 +3,7 @@ Bot name `T.F.G`, Là từ *viết tắc* của ~TFG~
 - _BA Update Version!_
 - **sus**: `???`
  ## Invite
-> [!IMPORTANT]
+> [!WARNING]
 > Bạn phải chắc chắn về việc mời con bot không rõ nguồn gốc này vào máy chủ của mình...
 > https://discord.com/oauth2/authorize?client_id=1085822181398806548&permissions=8&scope=bot%20applications.commands
 
