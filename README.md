@@ -5,7 +5,7 @@ Bot name `T.F.G`, Là từ *viết tắc* của ~TFG~
  ## Invite
 > [!WARNING]
 > You must be sure about inviting this unknown bot to your server...
-> [Invitation Link](https://discord.com/oauth2/authorize?client_id=1085822181398806548&permissions=8&scope=bot%20applications.commands)
+> [Click here to invite](https://discord.com/oauth2/authorize?client_id=1085822181398806548&permissions=8&scope=bot%20applications.commands)
 
   ## Changelogs
 > [!IMPORTANT]
