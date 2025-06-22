@@ -1,7 +1,7 @@
 # About T.F.G BOT
 Bot name `T.F.G`, Là từ *viết tắc* của ~TFG~
+A Discord bot with gacha and Update notification capabilities...
 - _PRD Update Version!_
-- **sus**: `???`
  ## Invite
 > [!WARNING]
 > You must be sure about inviting this unknown bot to your server...
